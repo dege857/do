@@ -1,0 +1,115 @@
+%+%                     Concatenate vectors after converting to
+                        character.
+%==%                    Locate Accurately
+%s=%                    Locate Similarly by grep()
+Apriori.Basket          Convert vector to sparse matrix
+Grepl                   Judge for Included Character
+NA.col.prob             Proportion of missing value by column
+NA.col.sums             Sum of missing value by column
+NA.row.prob             Proportion of missing value by row
+NA.row.sums             Sum of missing value by row
+NA.whole.prob           Proportion of missing value in the whole
+                        dataframe
+NA.whole.sums           Sum of missing value in the whole dataframe
+Nchar                   Number of Characters
+Replace                 Replace
+Replace0                Replaced by Empty
+Replace_ex              Replace Exactly
+Trim                    Trim
+add_biocViews           Add biocViews Field to Description File
+all_children            Extract all children nodes
+as.data.frame           Transform to dataframe rules object or
+                        calibrate object
+as.transactions         Transform to transactions
+attr_href               Get hypertext reference attributes
+c.xml_nodeset           Comine xml_nodeset
+cat_n                   print vector by lines
+character.nms           Return character names in matrix or dataframe
+chinese_utf8            UTF8 Code for Chinese
+cnOS                    Chinese operating system Whether the computer
+                        is Chinese operating system
+col_split               Split A Vector into Columns
+columntrans             Change data type
+compare                 Compare two vectors
+complete.data           Complete data
+current_mirror          Current mirror
+decrease                decrease character
+delete_left             Delete and Move Left the rest Values
+delete_up               Delete and Move Up the Rest Values
+deparse0                substitue, deparse and paste
+desc2df                 Convert package description file to dataframe
+dump.it                 Create dump matrix for a vector
+dup.connect             Connect Duplicated Values
+duplicated_all          Determine All Duplicate Elements
+duplicated_last         Determine Duplicate Elements in the Last
+                        Position
+equal_length            Equal Length
+exec                    execute string command This command just
+                        execute in the paraent frame.
+expand                  Expand Data by Weight
+factor.nms              Return factor names in matrix or dataframe
+file.dir                up level directory
+file.name               Extract file name
+fmt                     Formatting Replacement
+formal_dir              formal directory
+getBiocmirrors          get bioconductor mirrors
+get_names               Get Names of Object
+give_names              change vector, dataframe or matrix names
+has_children            Wether children nodes exist
+in1                     in
+increase                increase character
+inner_Add_Symbol        Concatenate Strings
+insertglue              glue
+install_Rversion        Install contributed packages by R version
+is.dir                  Whether file path is directory
+is.linux                operation system
+is.mac                  operation system
+is.windows              operation system
+join                    Join two dataframes together
+keep                    Keep objects
+knife                   Knife characters
+last                    Select character from last
+last_column             Select dataframe column from last
+last_row                Select dataframe row from last
+left                    Truncate Characters from the Left
+left_equal              Compare two characters from left Much useful
+                        for arguments input. Case is ignored.
+legal                   Check legal character Whether the character is
+                        legal for names in dataframe or formula
+list1                   Select list one
+load_extdata            Load external data from R package
+mid                     Truncate Characters from the Inside
+mirror.speed            Test speed of mirror
+model.data              Extract data of model
+names_n                 Names with different letters
+numeric.nms             Return numeric names in matrix or dataframe
+pakcage_all             Get all functions in one package
+paste0_columns          Paste Columns Together
+pipe                    pipe
+rd2df                   Convert package Rd file under man directory
+                        into dataframe
+read_R                  Read R file
+replicate               Replicate Each Elements of Vectors
+reshape_toLong          Convert Wide Data to Long
+reshape_toWide          Reshape to Wide Format
+reverse                 Reverse String Order
+right                   Truncate Characters from the Right
+right_equal             Compare two characters from right Much useful
+                        for arguments input. Case is ignored.
+rm_all                  Remove all objects
+rm_nchar                Remove elements by number of characters
+row.freq                Row Frequency
+select                  Subset data Take subset data for
+seq_range               sequence range of one vector
+set_Bioc_mirror         set bioconductor mirror
+set_CRAN_mirror         set CRAN mirror
+show_function           Show function command line in new script script
+                        will be store in your temporary directory
+split_expand            Split One Column and Expand
+table_NA                Count NA
+take_out                Extract Some String
+unique_no.NA            Unique Without NA
+unlibray                Detach package
+upper.dir               up level directory
+write_xlsx              Write data to Excel file write or append one or
+                        more data into one Excel file in each sheet.
